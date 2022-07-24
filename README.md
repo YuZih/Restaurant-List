@@ -1,9 +1,9 @@
-# Restaurant-List
+# Introduction
 This is my restaurant list, showing all the restaurants I like, details and providing search function.
 
 ![Index page about Restaurant List](./public/image/result_screenshot.png)
 
-## Function
+## Features
 
 - Browse all the restaurants
 - Check the specific restaurant details
