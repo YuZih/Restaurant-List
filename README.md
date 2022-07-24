@@ -16,7 +16,7 @@ This is my restaurant list, showing all the restaurants I like, details and prov
 
 2. Clone this project to localhost
 ```
-git clone  https://github.com/imabby0508/restaurant-list.git
+git clone  https://github.com/YuZih/Restaurant-List.git
 ```
 
 3. Enter the project folder through terminal, and then install npm package by inputting the command below
