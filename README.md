@@ -9,6 +9,8 @@ This is my restaurant list, showing all the restaurants I like, details and prov
 - Check the specific restaurant details
 - Link restaurant address to Google map
 - Search for specific restaurant
+![Index page about Restaurant List](./public/image/result_screenshot2.png)
+![Index page about Restaurant List](./public/image/result_screenshot3.png)
 
 ## Start to use
 
